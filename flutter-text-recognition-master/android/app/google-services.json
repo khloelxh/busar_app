@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588211184905",
+    "project_id": "busar-ece60",
+    "storage_bucket": "busar-ece60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588211184905:android:bebdd515f2f8a95dfcdfd8",
+        "android_client_info": {
+          "package_name": "com.example.text_recognition_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588211184905-a643o0ks4scb8ion50md0ogius00h5kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtNoTfKK7MqqjZK0UQQXDoklrF46Olxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588211184905-a643o0ks4scb8ion50md0ogius00h5kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
