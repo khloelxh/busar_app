@@ -1,6 +1,7 @@
 import 'package:clipboard/clipboard.dart';
 import 'package:flutter/material.dart';
 
+
 class Details extends StatefulWidget {
   final String text;
   Details(this.text);
@@ -10,6 +11,7 @@ class Details extends StatefulWidget {
 
 class _DetailsState extends State<Details> {
   final GlobalKey<ScaffoldState> _key = new GlobalKey<ScaffoldState>();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -38,3 +40,4 @@ class _DetailsState extends State<Details> {
     );
   }
 }
+
